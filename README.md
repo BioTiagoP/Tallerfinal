@@ -59,7 +59,7 @@ En la figura se puede observar que el dominio eucariota tiene un porcentaje de 0
 
 * Se pudo utilizar la plataforma galaxy para explorar la diversidad taxonómicas de las muestras de suelo obtenidas a partir de secuencias propias del tutorial 8 y se pudo obtener en formato .png una imagen con el diagrama de flujo a partir del uso de la aplicación Diagrams de Google
   
-*Se logró identificar cambios taxonómicos de las poblaciones microbianas puesto que se pudo observar diferentes taxones
+* Se logró identificar cambios taxonómicos de las poblaciones microbianas puesto que se pudo observar diferentes taxones
 
 * Se obtuvo cuatro gráficos circular de comunidades bacterianas tras asignar la clasificación taxonómica a partir de la herramienta Kraken2  
 
