@@ -30,7 +30,7 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 ## Resultados
 
 ![Bulky Soil Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_BOTTOM.jpg)
-Figura 1. Taxonomía de muestra de suelo de 10-15cm de profundad
+<p Figura 1. /p> Taxonomía de muestra de suelo de 10-15cm de profundad
 
 En la figura se puede observar que el dominio eucariota no tiene proporción 0%; el taxón más abundante es de proteobacteria con un 68%; seguido del taxón bacteroidetes con un 6%; actinobacterias con 12%, firmicutes 12%; y, planctomycetes 0.9% con un total de 3273 especies diferentes
 
