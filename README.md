@@ -10,7 +10,7 @@
 <div style="text-align: justify">
 Dado que los microorganismos constituyen la forma de vida más abundante y ubicua del planeta; y, en este contexto, el suelo representa el reservorio más importante de diversidad microbiana (i.e. 1 g de suelo contiene más de 10E7  células procariotas) es indiscutible su contribución significativa en el funcionamiento de los ecosistemas y los servicios que estos proveen (Kanchan et al., 2020; Mocali & Benedetti, 2010; Romero et al., 2023).
 La intensificación del uso de la tierra para fines agrícolas ha comprometido al microbioma del suelo, por lo que se han desarrollado diversas herramientas metagenómicas con el fin de comprender la composición taxonómica, rasgos funcionales e interacciones de estas comunidades biológicas (Romero et al., 2023; Wooley & Ye, 2010).
-En este estudio se plantea analizar varias muestras obtenidas del suelo por metodología de secuenciación Minion Oxford-Nanopore, de la rizósfera y microbiota general (secuencias 16s ribosomal) para observar la diversidad taxonómica, con ello se pretende identificar si existen diferencias a breves rasgos y aplicar varias herramientas biotecnológicas que han facilitado investigaciones exhaustivas de comunidades microbianas completas (Leite et al., 2022; Zhang et al., 2021)
+En este estudio se plantea analizar varias muestras obtenidas del suelo por metodología de secuenciación Minion Oxford-Nanopore, de la rizósfera y microbiota general (secuencias 16s ribosomal) para observar la diversidad taxonómica, con ello se pretende identificar si existen diferencias a breves rasgos y aplicar varias herramientas biotecnológicas que han facilitado investigaciones exhaustivas de comunidades microbianas completas (Leite et al., 2022; Zhang et al., 2021).
 </div>
 
 ## Antecedentes 
@@ -18,9 +18,9 @@ En este estudio se plantea analizar varias muestras obtenidas del suelo por meto
 <div style="text-align: justify">
 Los suelos sanos son un elemento esencial para mantener el equilibrio ecológico del planeta. Las comunidades bacterianas presentes en el suelo brindan una multitud de servicios ecosistémicos que afectan directa e indirectamente el funcionamiento general del medio ambiente del suelo. Esto ha dado lugar a que muchos estudios describan variaciones en la composición de la comunidad bacteriana y sus roles funcionales (Fierer & Jackson 2006, Hermans et al. 2016 ). 
 La diversidad bacteriana del suelo es inmensa y su composición y diversidad pueden verse influenciadas por una amplia gama de factores bióticos y abióticos. Entre las variables que se correlacionan con cambios en la composición de la comunidad bacteriana del suelo se encuentran el pH, la relación carbono-nitrógeno, el contenido de humedad y la temperatura del suelo (Buckley & Schmidt 2002).
-Por otro lado, muchas especies de microorganismos establecen relaciones simbióticas complejas con organismos vegetales. La fracción del sustrato que se ve directamente influenciada por las secreciones de las raíces y los microorganismos asociados se conoce como rizosfera. Así, por ejemplo, bacterias del género Bacillus, Pseudomonas o Burkholderia aparecen asociadas a las raíces de las plantas, protegiéndolas de microorganismos patógenos (Das et al. 2023, Gallardo 2024)
+Por otro lado, muchas especies de microorganismos establecen relaciones simbióticas complejas con organismos vegetales. La fracción del sustrato que se ve directamente influenciada por las secreciones de las raíces y los microorganismos asociados se conoce como rizosfera. Así, por ejemplo, bacterias del género Bacillus, Pseudomonas o Burkholderia aparecen asociadas a las raíces de las plantas, protegiéndolas de microorganismos patógenos (Das et al. 2023, Gallardo 2024).
 La alteración de las poblaciones microbianas precede muchas veces a cambios en las propiedades físicas y químicas de los suelos, por lo que monitorear su estado y estudiar la composición de la comunidad bacteriana o la abundancia relativa de taxones individuales como indicadores del estado de los ambientes puede servir para predecir su evolución futura, permitiendo desarrollar estrategias para mitigar los daños a los ecosistemas (Fierer & Jackson 2006).
-Los avances en las tecnologías de secuenciación han abierto la posibilidad de utilizar el estudio de taxones presentes en comunidades bacterianas como indicadores del estado del suelo. La plataforma MinION (Oxford Nanopore Technologies) ofrece una posibilidad única de realizar la caracterización microbiana del suelo gracias a su capacidad de secuenciación de lectura larga (Brown et al. 2017). Mientras que la secuenciación del gen 16S rRNA ha demostrado ser un enfoque excelente para identificar comunidades bacterianas beneficiosas y patógenas en sistemas multipatógeno-huésped (Das et al. 2023)
+Los avances en las tecnologías de secuenciación han abierto la posibilidad de utilizar el estudio de taxones presentes en comunidades bacterianas como indicadores del estado del suelo. La plataforma MinION (Oxford Nanopore Technologies) ofrece una posibilidad única de realizar la caracterización microbiana del suelo gracias a su capacidad de secuenciación de lectura larga (Brown et al. 2017). Mientras que la secuenciación del gen 16S rRNA ha demostrado ser un enfoque excelente para identificar comunidades bacterianas beneficiosas y patógenas en sistemas multipatógeno-huésped (Das et al. 2023).
 </div>
 
 ## Objetivos
@@ -38,22 +38,22 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 ![Bulky Soil Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_BOTTOM.jpg)
 <p align="center"><strong>Figura 1.</strong> Taxonomía de muestra de suelo de 10-15cm de profundidad</p>
 
-En la figura 1 se puede observar que el taxón más abundante es de Proteobacteria con un 68%; seguido del taxón Bacteroidetes con un 6%; Actinobacterias con 12%, Firmicutes 12%; y, Planctomycetes 0.9% con un total de 3273 lecturas diferentes
+En la figura 1 se puede observar que el taxón más abundante es de Proteobacteria con un 68%; seguido del taxón Bacteroidetes con un 6%; Actinobacterias con 12%, Firmicutes 12%; y, Planctomycetes 0.9% con un total de 3273 lecturas diferentes.
 
 ![Bulky Soil Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_TOP.jpg)
 <p align="center"><strong>Figura 2.</strong> Taxonomía de muestra de suelo de 0-5cm de profundidad</p>
 
-En la figura 2 se puede observar que el taxón más abundante es de Proteobacteria con un 64%; seguido del taxón Bacteroidetes con un 8%; Actinobacterias con 12%, Firmicutes 14%; y, Planctomycetes 0.7% con un total de 3965 lecturas diferentes
+En la figura 2 se puede observar que el taxón más abundante es de Proteobacteria con un 64%; seguido del taxón Bacteroidetes con un 8%; Actinobacterias con 12%, Firmicutes 14%; y, Planctomycetes 0.7% con un total de 3965 lecturas diferentes.
 
 ![Rhizosphere Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Rizhosphere_BOTTOM.jpg)
 <p align="center"><strong>Figura 3.</strong> Taxonomía de muestra de suelo de 10-15cm de profundidad</p> 
 
-En la figura se puede observar que el dominio eucariota no tiene proporción; el taxón más abundante es de Proteobacteria con un 45%; seguido del taxón Bacteroidetes con un 26%; Actinobacterias con 9%, Firmicutes 9%; y, Planctomycetes 7% con un total de 2113 lecturas diferentes
+En la figura se puede observar que el dominio eucariota no tiene proporción; el taxón más abundante es de Proteobacteria con un 45%; seguido del taxón Bacteroidetes con un 26%; Actinobacterias con 9%, Firmicutes 9%; y, Planctomycetes 7% con un total de 2113 lecturas diferentes.
 
 ![Rhizosphere Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/Rhizosphere_TOP.jpg)
 <p align="center"><strong>Figura 4.</strong> Taxonomía de muestra de rizósfera de 0-5cm de profundidad</p> 
 
-En la figura se puede observar que el dominio eucariota tiene un porcentaje de 0,06% (sin registro específico); el taxón más abundante es de Proteobacteria con un 44%; seguido del taxón Bacteroidetes con un 25%; Actinobacterias con 9%; Firmicutes 10%; y, Planctomycetes 8% con un total de 1766 lecturas diferentes
+En la figura se puede observar que el dominio eucariota tiene un porcentaje de 0,06% (sin registro específico); el taxón más abundante es de Proteobacteria con un 44%; seguido del taxón Bacteroidetes con un 25%; Actinobacterias con 9%; Firmicutes 10%; y, Planctomycetes 8% con un total de 1766 lecturas diferentes.
 
 ## Conclusiones
 
