@@ -33,6 +33,10 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
    
 ## Flujo de trabajo
 ![Flujo de trabajo](https://github.com/BioTiagoP/Tallerfinal/blob/main/workflow_grupo3.drawio-1.png)
+
+## Proceso
+
+
 ## Resultados
 
 ![Bulky Soil Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_BOTTOM.jpg)
