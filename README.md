@@ -31,18 +31,22 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 
 ![Bulky Soil Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_BOTTOM.jpg)
 Figura 1. Taxonomía de muestra de suelo de 10-15cm de profundad
+
 En la figura se puede observar que el dominio eucariota no tiene proporción 0%; el taxón más abundante es de proteobacteria con un 68%; seguido del taxón bacteroidetes con un 6%; actinobacterias con 12%, firmicutes 12%; y, planctomycetes 0.9% con un total de 3273 especies diferentes
 
 ![Bulky Soil Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_TOP.jpg)
 Figura 2. Taxonomía de muestra de suelo de 0-5cm de profundad 
+
 En la figura se puede observar que el dominio eucariota no tiene proporción 0%; el taxón más abundante es de proteobacteria con un 64%; seguido del taxón bacteroidetes con un 8%; actinobacterias con 12%, firmicutes 14%; y, planctomycetes 0.7% con un total de 3965 especies diferentes
 
 ![Rhizosphere Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Rizhosphere_BOTTOM.jpg)
 Figura 3. Taxonomía de muestra de suelo de 10-15cm de profundad 
+
 En la figura se puede observar que el dominio eucariota no tiene proporción 0%; el taxón más abundante es de proteobacteria con un 45%; seguido del taxón bacteroidetes con un 26%; actinobacterias con 9%, firmicutes 9%; y, planctomycetes 7% con un total de 2113 especies diferentes
 
 ![Rhizosphere Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/Rhizosphere_TOP.jpg)
 Figura 4. Taxonomía de muestra de rizósfera de 0-5cm de profundad 
+
 En la figura se puede observar que el dominio eucariota no tiene un porcentaje de 0,06%; el taxón más abundante es de proteobacteria con un 44%; seguido del taxón bacteroidetes con un 25%;actinobacterias con 9%; firmicutes 10%; y, planctomycetes 8% con un total de 1766 especies diferentes
 
 ## Conclusiones
