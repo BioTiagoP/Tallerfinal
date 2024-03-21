@@ -29,13 +29,29 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 ![Flujo de trabajo](https://github.com/BioTiagoP/Tallerfinal/blob/main/workflow_grupo3.drawio-1.png)
 ## Resultados
 
+![Bulky Soil Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_BOTTOM.jpg)
+Figura 1. Taxonomía de muestra de suelo de 10-15cm de profundad
+
+
+![Bulky Soil Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_TOP.jpg)
+Figura 2. Taxonomía de muestra de suelo de 0-5cm de profundad 
+
+
+![Rhizosphere Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Rizhosphere_BOTTOM.jpg)
+Figura 3. Taxonomía de muestra de suelo de 10-15cm de profundad 
+
+
+![Rhizosphere Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/Rhizosphere_TOP.jpg)
+Figura 4. Taxonomía de muestra de rizósfera de 0-5cm de profundad 
+
+
 ## Conclusiones
-* Se pudo utilizar la plataforma galaxy para analizar estado de salud de las muestras de suelo obtenidas a partir de secuencias propias del tutorial 8, se encontró complicaciones en el desarrollo de la actividad al momento de ejecutar las herramientas internas, sobre todo en la extracción del flujo de trabajo. Sin embargo, tras volver a ejecutar las herramientas se pudo obtener lo necesitado. Finalmente se pudo obtener en formato .png una imagen con el diagrama de flujo a partir del uso de la aplicación Diagrams de Google
 
-* Se pudo identificar los cambios de de las poblaciones microbianas a partir de su interacción con las raíces de las plantas, EDITAREDITAREDITAREDITAREDITAREDITAREDITAREDITAR
+* Se pudo utilizar la plataforma galaxy para explorar la diversidad taxonómicas de las muestras de suelo obtenidas a partir de secuencias propias del tutorial 8 y se pudo obtener en formato .png una imagen con el diagrama de flujo a partir del uso de la aplicación Diagrams de Google
+  
+*Se logró identificar cambios taxonómicos de las poblaciones microbianas puesto que se pudo observar diferentes taxones
 
-* Se obtuvo un gráfico circular de comunidades bacterianas tras asignar la clasificación taxonómica a partir de la herramienta Kraken2  
-
+* Se obtuvo cuatro gráficos circular de comunidades bacterianas tras asignar la clasificación taxonómica a partir de la herramienta Kraken2  
 
 ## Referencias Bibliográficas 
 *Cristóbal Gallardo, 16S Microbial analysis with Nanopore data (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/nanopore-16S-metagenomics/tutorial.html Online; accessed Tue Mar 19 2024
