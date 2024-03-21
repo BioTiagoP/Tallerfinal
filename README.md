@@ -8,6 +8,11 @@
 ## Problema
 
 <div style="text-align: justify">
+Este es un texto justificado en GitHub.
+</div>
+
+
+<div style="text-align: justify">
 Dado que los microorganismos constituyen la forma de vida más abundante y ubicua del planeta; y, en este contexto, el suelo representa el reservorio más importante de diversidad microbiana (i.e. 1 g de suelo contiene más de 10E7  células procariotas) es indiscutible su contribución significativa en el funcionamiento de los ecosistemas y los servicios que estos proveen (Kanchan et al., 2020; Mocali & Benedetti, 2010; Romero et al., 2023). 
 La intensificación del uso de la tierra para fines agrícolas ha comprometido al microbioma del suelo, por lo que se han desarrollado diversas herramientas metagenómicas con el fin de comprender la composición taxonómica, rasgos funcionales e interacciones de estas comunidades biológicas (Romero et al., 2023; Wooley & Ye, 2010).
 En este estudio se plantea analizar varias muestras obtenidas del suelo por metodología de secuenciación Minion Oxford-Nanopore, de la rizósfera y microbiota general (secuencias 16s ribosomal) para observar la diversidad taxonómica, con ello se pretende identificar si existen diferencias a breves rasgos y aplicar varias herramientas biotecnológicas que han facilitado investigaciones exhaustivas de comunidades microbianas completas (Leite et al., 2022; Zhang et al., 2021)
