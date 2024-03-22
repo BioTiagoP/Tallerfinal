@@ -205,3 +205,12 @@ En la figura se puede observar que el filo más abuntante es Proteobacteria 41%;
 
 *Zhang, L., Chen, F., Zeng, Z., Xu, M., Sun, F., Liu, Y., Bi, X., Lin, Y., Gao, Y., Hao, H., Yi, W., Li, M., & Xie, Y. (2021). Advances in Metagenomics and Its Application in Environmental Microorganisms. Frontiers In Microbiology, 12. https://doi.org/10.3389/fmicb.2021.766364
 
+*Fierer, N. y RB Jackson, 2006 La diversidad y biogeografía de las comunidades bacterianas del suelo . Actas de la Academia Nacional de Ciencias 103: 626–631. 10.1073/pnas.0507535103
+
+*Hermans, S. M., H. L. Buckley, B. S. Case, F. Curran-Cournane, M. Taylor et al., 2016 Bacteria as Emerging Indicators of Soil Condition (F. E. Loeffler, Ed.). Applied and Environmental Microbiology 83: 10.1128/aem.02826-16
+
+*Brown, B. L., M. Watson, S. S. Minot, M. C. Rivera, and R. B. Franklin, 2017 MinION™ nanopore sequencing of environmental metagenomes: a synthetic approach. GigaScience 6: 10.1093/gigascience/gix007
+
+*Buckley, D. y Schmidt, T. (2002) en Biodiversidad de la vida microbiana, eds. Staley, J. y Reysenbach, A. (Wiley, Nueva York), págs. 183–208
+
+*Das AJ, Sarangi AN, Ravinath R, Talambedu U, Krishnareddy PM, Nijalingappa R, Middha SK. Improved species level bacterial characterization from rhizosphere soil of wilt infected Punica granatum. Sci Rep. 2023 May 27;13(1):8653.
