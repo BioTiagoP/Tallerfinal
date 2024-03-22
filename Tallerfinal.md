@@ -41,6 +41,8 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 Las secuencias corresponden a metagenomas obtenidos a partir de muestras de rizosfera asociada a plantas de granada (Punica granatum) y suelo a dos niveles de profundidad (0-5 cm/10-15cm) 
 
 ### Linea de comando
+
+```
 carmin@carmin-virtualbox:~/Descargas$ wget https://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.12.1.zip #Descargar link de fastqc 
 carmin@carmin-virtualbox:~/Descargas$ ls #muestra contenido del directorio
 fastqc_v0.12.1.zip  jdk-22_linux-x64_bin  jdk-22_linux-x64_bin.deb 
@@ -76,7 +78,7 @@ carmin@carmin-virtualbox:~/Descargas$ mv rhizosphere_bottom_fastqc.html ~/Descar
 carmin@carmin-virtualbox:~/Descargas$ mv rhizosphere_top_fastqc.html ~/Descargas/Reportes/ #mover archivo .html a la carpeta Reportes 
 carmin@carmin-virtualbox:~/Descargas$ ls Reportes/ #muestra contenido de la carpeta Reportes
 bulk_bottom_fastqc.html  bulk_top_fastqc.html  rhizosphere_bottom_fastqc.html  rhizosphere_top_fastqc.html
-
+```
 
 ## Resultados
 
