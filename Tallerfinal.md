@@ -42,22 +42,22 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 ![Bulky Soil Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/bulkybot.png)
 <p align="center"><strong>Figura 1.</strong> Taxonomía de muestra de suelo de 10-15cm de profundidad</p>
 
-En la figura 1 se puede observar que el taxón más abundante es de Proteobacteria con un 68%; seguido del taxón Bacteroidetes con un 6%; Actinobacterias con 12%, Firmicutes 12%; y, Planctomycetes 0.9% con un total de 3273 lecturas diferentes.
+En la figura se puede observar que el filo más abuntante es Proteobacteria 67%; Bacteroidetes con un 6%; Firmicutes 13%; Actinobacterias con 12%; Planctomycetes 0.6 % y Acidobacterias 0.1 % con un total de 2638 lecturas diferentes
 
 ![Bulky Soil Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/bulkytop.png)
 <p align="center"><strong>Figura 2.</strong> Taxonomía de muestra de suelo de 0-5cm de profundidad</p>
 
-En la figura 2 se puede observar que el taxón más abundante es de Proteobacteria con un 64%; seguido del taxón Bacteroidetes con un 8%; Actinobacterias con 12%, Firmicutes 14%; y, Planctomycetes 0.7% con un total de 3965 lecturas diferentes.
+En la figura se puede observar que el filo más abuntante es Proteobacteria 63%; Bacteroidetes con un 9%; Firmicutes 14%; Actinobacterias con 12%; Planctomycetes 0.8 % y Acidobacterias 0.2 % con un total de 3164 lecturas diferentes
 
 ![Rhizosphere Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/rizobot.png)
 <p align="center"><strong>Figura 3.</strong> Taxonomía de muestra de suelo de 10-15cm de profundidad</p> 
 
-En la figura se puede observar que el dominio eucariota no tiene proporción; el taxón más abundante es de Proteobacteria con un 45%; seguido del taxón Bacteroidetes con un 26%; Actinobacterias con 9%, Firmicutes 9%; y, Planctomycetes 7% con un total de 2113 lecturas diferentes.
+En la figura se puede observar que el filo más abuntante es Proteobacteria 42%; Bacteroidetes con un 30%; Firmicutes 10%; Actinobacterias con 9%; Planctomycetes 6 % y Acidobacterias 0.8 % con un total de 1558 lecturas diferentes.
 
 ![Rhizosphere Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/rizotop.png)
 <p align="center"><strong>Figura 4.</strong> Taxonomía de muestra de rizósfera de 0-5cm de profundidad</p> 
 
-En la figura se puede observar que el dominio eucariota tiene un porcentaje de 0,06% (sin registro específico); el taxón más abundante es de Proteobacteria con un 44%; seguido del taxón Bacteroidetes con un 25%; Actinobacterias con 9%; Firmicutes 10%; y, Planctomycetes 8% con un total de 1766 lecturas diferentes.
+En la figura se puede observar que el filo más abuntante es Proteobacteria 41%; Bacteroidetes con un 30%; Firmicutes 10%; Actinobacterias con 9%; Planctomycetes 8 % y Acidobacterias 1 % con un total de 1315 lecturas diferentes.
 
 ## Conclusiones
 
