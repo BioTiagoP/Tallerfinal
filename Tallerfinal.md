@@ -32,7 +32,7 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 </div>
    
 ## Flujo de trabajo
-![Flujo de trabajo](https://github.com/BioTiagoP/Tallerfinal/blob/main/workflow_grupo3.drawio-1.png)
+![Flujo de trabajo](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/workflow_grupo3.drawio-1.png)
 
 ## Proceso
 
