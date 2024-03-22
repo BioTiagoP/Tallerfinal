@@ -98,15 +98,15 @@ Kraken2 es un clasificador taxonómico que utiliza alineamientos exactos de k-me
 
 El reporte de los resultados de Kraken2 tienen que ajustarse a un formato apropiado para ser posteriormente visualizado. Con este fin utilizamos las herramientas Reverse (revierte el orden de las secuencias en la entrada), Replace text (estandariza términos, busca información o patrones de interés y los reemplaza por aquellos deseados) y Remove beginning (elimina bases del principio de las secuencias)
 
-Reverse
+* Reverse
 
 ![reverse](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/16.png)
 
-Replace text
+* Replace text
 
 ![reptxt](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/17.png)
 
-Remove beginning
+* Remove beginning
 
 ![rembg](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/18.png)
 
