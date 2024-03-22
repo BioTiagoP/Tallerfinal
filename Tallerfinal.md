@@ -40,6 +40,82 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 
 Las secuencias corresponden a metagenomas obtenidos a partir de muestras de rizosfera asociada a plantas de granada (Punica granatum) y suelo a dos niveles de profundidad (0-5 cm/10-15cm) 
 
+![metagenomas](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/1.png)
+
+### Evaluación de la calidad de los datos 
+
+Este análisis exploratorio fue realizado en la línea de comando y se comenzó por la instalación del programa fastqc desde la página web, que comprende la descarga un archivo comprimido .zip y la extracción de los ficheros en primera instancia. 
+
+![calidaddatos](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/2.png)
+
+Para completar la instalación se otorga el permiso de ejecución del programa fastqc, mismo que se abre en otra ventana. 
+
+![calidaddatos](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/3.png)
+
+Asimismo, nuestras secuencias fueron descargadas y descomprimidas en el directorio Descargas para poder cargarlas en el programa 
+
+![calidaddatos](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/4.png)
+
+Una vez dentro de la plataforma de FastQC, el programa comienza a leer las secuencias y nos muestra los reportes de calidad de nuestras secuencias en formato .html que procedemos a exportar
+
+![calidaddatos](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/5.png)
+![calidaddatos](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/6.png)
+
+Para organizar los reportes, se creó una carpeta dentro del directorio Descargas llamada “Reportes” y se movieron los archivos .html dentro de la misma carpeta
+
+![calidaddatos](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/7.png)
+
+MULTI QC es una herramienta que nos permite resumir experimentos que contienen múltiples muestras y múltiples pasos de análisis, y los unifica en un solo reporte. 
+
+![multiqc](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/8.png)
+
+Resultados de la calidad de las secuencias de nuestras muestras pre-procesamiento
+
+![resultados](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/9.png)
+
+Porechop es un algoritmo diseñado para detectar y suprimir adaptadores presentes en las lecturas de la secuenciación Oxford Nanopore. Los adaptadores localizados en los extremos de las lecturas son eliminados, mientras que aquellas lecturas que contengan un adaptador en su interior son fragmentadas y tratadas como secuencias quiméricas, siendo posteriormente divididas en lecturas individuales.
+
+![porechop](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/10.png)
+
+Fastp permite un preprocesamiento rápido para archivos fastq. Entre las acciones que realizamos a las secuencias de interés fue un filtrado por  puntuación de calidad Phred (9) y un filtrado por longitud (1000 mínimo – 2000 máximo)
+
+![fastp](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/11.png)
+![fastp](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/12.png)
+
+Dentro de la plataforma Galaxy es posible, de igual manera, realizar la evaluación del control de calidad para lo cual seleccionamos las secuencias que han sido procesadas. Asimismo, se utilizó la herramienta FASTQC y MULTIQC
+
+![multiqc](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/13.png)
+
+Segundo multiqc
+
+![multiqc](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/14.png)
+
+### Asignación clasificación taxonómica
+
+Kraken2 es un clasificador taxonómico que utiliza alineamientos exactos de k-meros (generalmente 30pb de longitud) contra una base de datos que contienen secuencias de ADN de genomas cuya taxonomía ya conocemos (base de datos SILVA). El algoritmo asigna k-meros al ancestro común más bajo (LCA) de todos los genomas que se sabe que contienen un k-mero determinado.
+
+![taxon](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/15.png)
+
+El reporte de los resultados de Kraken2 tienen que ajustarse a un formato apropiado para ser posteriormente visualizado. Con este fin utilizamos las herramientas Reverse (revierte el orden de las secuencias en la entrada), Replace text (estandariza términos, busca información o patrones de interés y los reemplaza por aquellos deseados) y Remove beginning (elimina bases del principio de las secuencias)
+
+Reverse
+
+![reverse](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/16.png)
+
+Replace text
+
+![reptxt](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/17.png)
+
+Remove beginning
+
+![rembg](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/18.png)
+
+### Visualización de resultados
+
+La herramienta Krona pie chart Krona permite explorar la diversidad taxonómica (FILOS) a través gráficos circulares e interactivos que tienen varias capas.
+
+![visres](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/19.png)
+
 ### Linea de comando
 
 ```
