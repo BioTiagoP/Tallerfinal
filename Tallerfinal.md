@@ -39,22 +39,22 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 
 ## Resultados
 
-![Bulky Soil Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_BOTTOM.jpg)
+![Bulky Soil Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/bulkybot.png)
 <p align="center"><strong>Figura 1.</strong> Taxonomía de muestra de suelo de 10-15cm de profundidad</p>
 
 En la figura 1 se puede observar que el taxón más abundante es de Proteobacteria con un 68%; seguido del taxón Bacteroidetes con un 6%; Actinobacterias con 12%, Firmicutes 12%; y, Planctomycetes 0.9% con un total de 3273 lecturas diferentes.
 
-![Bulky Soil Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/Bulk_TOP.jpg)
+![Bulky Soil Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/bulkytop.png)
 <p align="center"><strong>Figura 2.</strong> Taxonomía de muestra de suelo de 0-5cm de profundidad</p>
 
 En la figura 2 se puede observar que el taxón más abundante es de Proteobacteria con un 64%; seguido del taxón Bacteroidetes con un 8%; Actinobacterias con 12%, Firmicutes 14%; y, Planctomycetes 0.7% con un total de 3965 lecturas diferentes.
 
-![Rhizosphere Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/Rizhosphere_BOTTOM.jpg)
+![Rhizosphere Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/rizobot.png)
 <p align="center"><strong>Figura 3.</strong> Taxonomía de muestra de suelo de 10-15cm de profundidad</p> 
 
 En la figura se puede observar que el dominio eucariota no tiene proporción; el taxón más abundante es de Proteobacteria con un 45%; seguido del taxón Bacteroidetes con un 26%; Actinobacterias con 9%, Firmicutes 9%; y, Planctomycetes 7% con un total de 2113 lecturas diferentes.
 
-![Rhizosphere Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/Rhizosphere_TOP.jpg)
+![Rhizosphere Top](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/rizotop.png)
 <p align="center"><strong>Figura 4.</strong> Taxonomía de muestra de rizósfera de 0-5cm de profundidad</p> 
 
 En la figura se puede observar que el dominio eucariota tiene un porcentaje de 0,06% (sin registro específico); el taxón más abundante es de Proteobacteria con un 44%; seguido del taxón Bacteroidetes con un 25%; Actinobacterias con 9%; Firmicutes 10%; y, Planctomycetes 8% con un total de 1766 lecturas diferentes.
