@@ -36,6 +36,47 @@ Los avances en las tecnologías de secuenciación han abierto la posibilidad de 
 
 ## Proceso
 
+### Obtención de datos
+
+Las secuencias corresponden a metagenomas obtenidos a partir de muestras de rizosfera asociada a plantas de granada (Punica granatum) y suelo a dos niveles de profundidad (0-5 cm/10-15cm) 
+
+### Linea de comando
+carmin@carmin-virtualbox:~/Descargas$ wget https://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.12.1.zip #Descargar link de fastqc 
+carmin@carmin-virtualbox:~/Descargas$ ls #muestra contenido del directorio
+fastqc_v0.12.1.zip  jdk-22_linux-x64_bin  jdk-22_linux-x64_bin.deb 
+carmin@carmin-virtualbox:~/Descargas$ unzip fastqc_v0.12.1.zip #Descomprime carpeta descargada
+carmin@carmin-virtualbox:~/Descargas$ ls #muestra contenido del directorio
+FastQC  fastqc_v0.12.1.zip  jdk-22_linux-x64_bin  jdk-22_linux-x64_bin.deb
+carmin@carmin-virtualbox:~/Descargas$ ls FastQC/ #muestra contenido carpeta
+cisd-jhdf5.jar  fastqc_icon.ico  INSTALL.txt 	LICENSE_JHDF5.txt  org     	RELEASE_NOTES.txt  uk
+Configuration   Help         	jbzip2-0.9.jar  LICENSE.txt    	README.md   run_fastqc.bat
+fastqc      	htsjdk.jar   	LICENSE     	net            	README.txt  Templates
+carmin@carmin-virtualbox:~/Descargas$ chmod +x FastQC/fastqc #otorga permisos de ejecución
+carmin@carmin-virtualbox:~/Descargas$ FastQC/fastqc --version #muestra la versión de FastQC instalado
+FastQC v0.12.1
+carmin@carmin-virtualbox:~/Descargas$ ls #descargamos las secuencias de interés en un archivo .zip
+drive-download-20240321T031648Z-001.zip  FastQC  fastqc_v0.12.1.zip  jdk-22_linux-x64_bin  jdk-22_linux-x64_bin.deb
+carmin@carmin-virtualbox:~/Descargas$ unzip drive-download-20240321T031648Z-001.zip
+Archive:  drive-download-20240321T031648Z-001.zip #descomprime carpeta de secuencias
+  inflating: bulk_top.fastq     	 
+  inflating: bulk_bottom.fastq  	 
+  inflating: rhizosphere_bottom.fastq  
+  inflating: rhizosphere_top.fastq   
+carmin@carmin-virtualbox:~/Descargas$ FastQC/fastqc #ejecuta el programa FASTQC en una nueva ventana
+carmin@carmin-virtualbox:~/Descargas$ ls #descargamos los reportes del FASTQC en formato .html
+bulk_bottom.fastq    	bulk_top_fastqc.zip                  	jdk-22_linux-x64_bin.deb    	rhizosphere_top_fastqc.html
+bulk_bottom_fastqc.html  drive-download-20240321T031648Z-001.zip  rhizosphere_bottom.fastq    	rhizosphere_top_fastqc.zip
+bulk_bottom_fastqc.zip   FastQC                               	rhizosphere_bottom_fastqc.html
+bulk_top.fastq       	fastqc_v0.12.1.zip                   	rhizosphere_bottom_fastqc.zip
+bulk_top_fastqc.html 	jdk-22_linux-x64_bin                 	rhizosphere_top.fastq
+carmin@carmin-virtualbox:~/Descargas$ mkdir Reportes #creamos una nueva carpeta llamada “Reportes” para organizar los archivos .html 
+carmin@carmin-virtualbox:~/Descargas$ mv bulk_bottom_fastqc.html ~/Descargas/Reportes/ #mover archivo .html a la carpeta Reportes 
+carmin@carmin-virtualbox:~/Descargas$ mv bulk_top_fastqc.html ~/Descargas/Reportes/ #mover archivo .html a la carpeta Reportes 
+carmin@carmin-virtualbox:~/Descargas$ mv rhizosphere_bottom_fastqc.html ~/Descargas/Reportes/ #mover archivo .html a la carpeta Reportes 
+carmin@carmin-virtualbox:~/Descargas$ mv rhizosphere_top_fastqc.html ~/Descargas/Reportes/ #mover archivo .html a la carpeta Reportes 
+carmin@carmin-virtualbox:~/Descargas$ ls Reportes/ #muestra contenido de la carpeta Reportes
+bulk_bottom_fastqc.html  bulk_top_fastqc.html  rhizosphere_bottom_fastqc.html  rhizosphere_top_fastqc.html
+
 
 ## Resultados
 
