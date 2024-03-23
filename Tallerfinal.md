@@ -169,7 +169,7 @@ En la figura se puede observar que el filo más abuntante es Proteobacteria 67%;
 En la figura se puede observar que el filo más abuntante es Proteobacteria 63%; Bacteroidetes con un 9%; Firmicutes 14%; Actinobacterias con 12%; Planctomycetes 0.8 % y Acidobacterias 0.2 % con un total de 3164 lecturas diferentes
 
 ![Rhizosphere Bottom](https://github.com/BioTiagoP/Tallerfinal/blob/main/imagenes/rizobot.png)
-<p align="center"><strong>Figura 3.</strong> Taxonomía de muestra de suelo de 10-15cm de profundidad</p> 
+<p align="center"><strong>Figura 3.</strong> Taxonomía de muestra de rizósfera de 10-15cm de profundidad</p> 
 
 En la figura se puede observar que el filo más abuntante es Proteobacteria 42%; Bacteroidetes con un 30%; Firmicutes 10%; Actinobacterias con 9%; Planctomycetes 6 % y Acidobacterias 0.8 % con un total de 1558 lecturas diferentes.
 
